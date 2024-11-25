@@ -17,7 +17,7 @@ I'm Mason Williams This is my portfolio of a series of projects I've done.
 # Created A SIEM Using Microsoft Azure
 
 Video I watched that helped:
-https://www.youtube.com/watch?v=IJUkGuirTGQ
+![Video](https://www.youtube.com/watch?v=IJUkGuirTGQ)
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
@@ -28,6 +28,7 @@ https://www.youtube.com/watch?v=IJUkGuirTGQ
 
 ## Created Active Directory 
 I built a diagram to visualize how I wanted to build the Directory to look using Draw.io:
+![Diagram-1](./Diagram.drawio.png).
 
 
 
