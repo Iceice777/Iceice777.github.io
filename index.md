@@ -19,9 +19,9 @@ I'm Mason Williams This is my portfolio of a series of projects I've done.
 Video I watched that helped:
 ![Video]()
 Screenshots of SIEM:
-![Activity Log](Screenshot (104).png)
-![Incident](Screenshot (105).png)
-![Analytics](Screenshot (106).png)
+![Activity Log](photos/Screenshot (104).png)
+![Incident](photos/Screenshot (105).png)
+![Analytics](photos/Screenshot (106).png)
 
 > This is a blockquote following a header.
 >
@@ -29,9 +29,9 @@ Screenshots of SIEM:
 
 ## Created Active Directory 
 Visualization of Directory:
-![Diagram-1](Active Directory Proj Diagram.drawio.png).
+![Diagram-1](photos/Active Directory Proj Diagram.drawio.png).
 Created two VMs with Baseline(If I mess something up I can go back)
-![Vms](
+![Vms](photos/Screenshot (107).png)
 
 
 
