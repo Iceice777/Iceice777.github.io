@@ -28,7 +28,7 @@ Video I watched that helped:
 
 ## Created Active Directory 
 I built a diagram to visualize how I wanted to build the Directory to look using Draw.io:
-![Diagram-1](Diagram.drawio.png).
+![Diagram-1](Active Directory Proj Diagram.drawio.png).
 
 
 
