@@ -26,7 +26,9 @@ https://www.youtube.com/watch?v=IJUkGuirTGQ
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-## Project 2
+## Created Active Directory 
+I built a diagram to visualize how I wanted to build the Directory to look using Draw.io:
+
 
 
 ## Project 3
