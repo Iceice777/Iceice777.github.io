@@ -17,9 +17,7 @@ I'm Mason Williams This is my portfolio of a series of projects I've done.
 # Created A SIEM Using Microsoft Azure
 
 Video I watched that helped:
-[![Video](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]([[https://www.youtube.com/watch?v=JLMbpiywVxQ](https://www.youtube.com/watch?v=IJUkGuirTGQ))]
-![Video](https://www.youtube.com/watch?v=IJUkGuirTGQ)
-<a href="https://xxx.github.io/research/">Research</a>
+![Video]()
 Screenshots of SIEM:
 ![Activity Log](Screenshot (104).png)
 ![Incident](Screenshot (105).png)
@@ -32,6 +30,8 @@ Screenshots of SIEM:
 ## Created Active Directory 
 Visualization of Directory:
 ![Diagram-1](Active Directory Proj Diagram.drawio.png).
+Created two VMs with Baseline(If I mess something up I can go back)
+![Vms](
 
 
 
