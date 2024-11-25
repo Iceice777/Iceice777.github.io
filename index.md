@@ -17,7 +17,7 @@ I'm Mason Williams This is my portfolio of a series of projects I've done.
 # Created A SIEM Using Microsoft Azure
 
 Video I watched that helped:
-[![Video](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]([https://www.youtube.com/watch?v=JLMbpiywVxQ)]
+[![Video](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]([[https://www.youtube.com/watch?v=JLMbpiywVxQ](https://www.youtube.com/watch?v=IJUkGuirTGQ))]
 ![Video](https://www.youtube.com/watch?v=IJUkGuirTGQ)
 <a href="https://xxx.github.io/research/">Research</a>
 Screenshots of SIEM:
