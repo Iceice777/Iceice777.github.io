@@ -18,9 +18,13 @@ I'm Mason Williams This is my portfolio of a series of projects I've done.
 
 Video I watched that helped:
 ![Video](https://www.youtube.com/watch?v=IJUkGuirTGQ)
+Screenshots of SIEM:
+
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+![Activity Log]Screenshot (104).png).
+![Incident](Screenshot (105).png).
+![Analytics](Screenshot (106).png).
 
 > This is a blockquote following a header.
 >
