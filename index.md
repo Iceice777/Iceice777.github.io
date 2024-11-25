@@ -29,6 +29,7 @@ Screenshots of SIEM:
 
 ## Created Active Directory 
 Visualization of Directory:
+
 ![Diagram-1](photos/Active Directory Proj Diagram.drawio.png).
 Created two VMs with Baseline(If I mess something up I can go back)
 ![Vms](photos/Screenshot (107).png)
